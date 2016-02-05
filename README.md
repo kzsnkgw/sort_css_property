@@ -24,4 +24,5 @@ $ gulp default
 
 ### 概要
 
-ソートするルールは[csscomb](http://csscomb.com/)を参照。
+[csscomb](http://csscomb.com/)を参照。
+ソートするルールは[csscomb.json](https://github.com/kzsnkgw/sort_css_property/blob/master/.csscomb.json)で設定します。
