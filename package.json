@@ -7,9 +7,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "\"# sort_css_property\"",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-csscomb": "^3.0.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzsnkgw/sort_css_property.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kzsnkgw/sort_css_property/issues"
+  },
+  "homepage": "https://github.com/kzsnkgw/sort_css_property#readme"
 }
