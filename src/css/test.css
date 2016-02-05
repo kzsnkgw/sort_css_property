@@ -3,11 +3,26 @@
 }
 
 .b {}
-
 .c {
     top: 0;
     left: 0;
+    bottom: 0;
+    position: fixed;
+}
+    .c li {
+        margin-right: 15px;
+        margin-top: 15px;
+    }
+.d { margin-right: 15px }
+
+.f {
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+
     position: fixed;
 }
 
-.d { margin-right: 15px }
+.h {
+    margin-bottom: 15px;
+    padding: 153px;
+}
