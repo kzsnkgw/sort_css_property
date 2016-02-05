@@ -21,3 +21,7 @@ $ cd sort_css_property
 $ npm install
 $ gulp default
 ```
+
+### 概要
+
+ソートするルールは[csscomb](http://csscomb.com/)を参照。
