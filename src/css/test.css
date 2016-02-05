@@ -1,0 +1,13 @@
+.a {
+    color: #000;
+}
+
+.b {}
+
+.c {
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.d { margin-right: 15px }
